@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samehelhamaaeda&label=Profile%20views&color=0e75b6&style=flat" alt="samehelhamaaeda" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SamehElhamaaeda/My-Projects.git](https://github.com/SamehElhamaaeda/My-Projects.git)
+- 👨‍💻 All of my projects are available at [https://github.com/SamehElhamaaeda?tab=repositories]
 
 - 📫 How to reach me **sw.eng.samehelhamaaeda@gmail.com**
 
